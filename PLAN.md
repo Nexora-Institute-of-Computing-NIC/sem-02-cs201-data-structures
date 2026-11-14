@@ -89,3 +89,10 @@
 4. Trees — BST + traversal exercises
 5. Sorting and searching comparison writeup
 6. Graph algorithms — BFS, DFS, Dijkstra
+
+## Take this in a different language
+
+This course is also available in two alternate editions. Same learning outcomes, different language.
+
+- [**Data Structures in Python**](https://github.com/Nexora-Institute-of-Computing-NIC/alt-01-ds-python) - Python edition
+- [**Data Structures in Java**](https://github.com/Nexora-Institute-of-Computing-NIC/alt-02-ds-java) - Java edition
